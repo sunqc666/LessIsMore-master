@@ -1,0 +1,14 @@
+.back{
+    margin-bottom: 6px;
+    color: #8C8C8C;
+}
+.back:hover{
+    cursor: pointer;
+}
+
+.ellipsis{
+    text-overflow: ellipsis;
+    display: block;
+    white-space:nowrap;
+    overflow: hidden;
+}
